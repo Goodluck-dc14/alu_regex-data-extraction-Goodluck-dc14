@@ -11,5 +11,5 @@ It processes large amounts of text to extract:
 ## 🛠️ Setup Instructions
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/{YourUsername}/alu_regex-data-extraction-{YourUsername}.git
-cd alu_regex-data-extraction-{YourUsername}
+git clone https://github.com/Goodluck-dc14/alu_regex-data-extraction-Goodluck-dc14.git
+cd alu_regex-data-extraction-Goodluck-dc14
